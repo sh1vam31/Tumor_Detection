@@ -1,21 +1,12 @@
 # 🧠 3D U-Net Multimodal Brain Tumor Segmentation & Clinical Web Visualizer
 
-**Semester 5 On-Job-Training (OJT) Capstone Project**  
+**Semester 5 On-the-Job Training (OJT) Capstone Project**  
 *Multimodal Deep Learning & Interactive WebGL Volumetric Suite for Clinical Oncology*
 
 ---
 
-## 👨‍🎓 Student & Project Details
-* **Student Name:** Shivam Chaudhary
-* **Registration Number:** 240410700100
-* **Course / Milestone:** Semester 5 OJT Capstone Project
-* **Project Track:** Medical Imaging AI (Computer Vision & Volumetric Deep Learning)
-* **Dataset:** Brain Tumor Segmentation Benchmark ([BraTS 2021/2024](https://www.med.upenn.edu/cbica/brats/))
-* **Modalities:** 4-Channel MRI — T1, T1-contrast enhanced (T1ce), T2, and FLAIR
-* **Neural Architecture:** 3D U-Net (Volumetric 3D Convolutions, Skip Connections, Instance Normalization)
-* **Live Deployment Target:** [Render Cloud Platform](https://render.com)
+Live Demo - https://tumor-detection-sq03.onrender.com/
 
----
 
 ## 🌟 System Architecture & Core Capabilities
 
