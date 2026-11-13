@@ -1,0 +1,43 @@
+# Node / Frontend
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+.vite/
+*.local
+
+# Python / Backend
+__pycache__/
+*/__pycache__/
+*/*/__pycache__/
+*/*/*/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.pytest_cache/
+
+# Large ML weights and datasets (whitelist project weights and sample benchmark)
+*.pth
+*.pt
+*.onnx
+*.nii
+*.nii.gz
+!ml/weights/best_model.pth
+!sample_data/*.nii.gz
+data/
+raw_data/
+
+# OS / Environment
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.env
+.env.*
